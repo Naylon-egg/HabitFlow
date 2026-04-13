@@ -27,10 +27,4 @@ habit_tracker/
 ├── analytics.py
 ├── utils.py
 └── data.db
-```
 
-## Future Improvements
-- Add graphs (matplotlib)
-- Build a web version (Flask)
-- Add user authentication
-- Improve analytics with AI
